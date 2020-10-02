@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d42b4638-3e96-4e06-9dd2-f0b5cef298e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hkP4AdfdBriBPldr3pe9WmCh6a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../React" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Sergei_Michkov\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\graphql-tutorial\server" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d42b4638-3e96-4e06-9dd2-f0b5cef298e0" name="Default Changelist" comment="" />
+      <created>1600551922158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600551922158</updated>
+      <workItem from="1600551923418" duration="4867000" />
+      <workItem from="1600625922620" duration="9885000" />
+      <workItem from="1600673686794" duration="59000" />
+      <workItem from="1600673761339" duration="21000" />
+      <workItem from="1600673797519" duration="82000" />
+      <workItem from="1600697241014" duration="23000" />
+      <workItem from="1600697280025" duration="17000" />
+      <workItem from="1600705403161" duration="34000" />
+      <workItem from="1600714415841" duration="3162000" />
+      <workItem from="1600757512029" duration="16000" />
+      <workItem from="1600802971539" duration="2226000" />
+      <workItem from="1600889731753" duration="2134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="336" key="FileChooserDialogImpl" timestamp="1600891866103">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="336" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1600891866103" />
+  </component>
+</project>
